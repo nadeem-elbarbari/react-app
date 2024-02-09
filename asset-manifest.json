@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.5a39fe44.css",
+    "main.js": "/react-app/static/js/main.91bcfaca.js",
+    "static/media/boxicons.svg": "/react-app/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/react-app/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/react-app/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/react-app/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/boxicons.woff2": "/react-app/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/poert1.png": "/react-app/static/media/poert1.4417330275f78faa31c3.png",
+    "static/media/port3.png": "/react-app/static/media/port3.494a4a914b5471b41f3e.png",
+    "static/media/port2.png": "/react-app/static/media/port2.6554473016d32b343f02.png",
+    "static/media/avataaars.png": "/react-app/static/media/avataaars.897c5561e351949dee71.png",
+    "index.html": "/react-app/index.html",
+    "main.5a39fe44.css.map": "/react-app/static/css/main.5a39fe44.css.map",
+    "main.91bcfaca.js.map": "/react-app/static/js/main.91bcfaca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a39fe44.css",
+    "static/js/main.91bcfaca.js"
+  ]
+}
